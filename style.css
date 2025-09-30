@@ -18,7 +18,7 @@ body {
 }
 
 .image-logo {
-    height: 200px; /* Adjust the height to your desired size */
+    height: 100px; /* Adjust the height to your desired size */
     width: 200px; /* This keeps the image's original aspect ratio */
 }
 
